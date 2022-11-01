@@ -22,7 +22,7 @@
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
 - 📖 I’m currently learning ...Dart.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...thineikhaing@gmail.com.
+- 📫 How to reach me ... thineikhaing@gmail.com.
 
 <hr>
 
