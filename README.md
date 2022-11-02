@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=22EBF7&size=26&center=false&lines=Hey!+Its+Thin+Ei+Khaing;Full+Stack+Web+Developer...;Senior+Ruby+On+Rails+Developer...."/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=7A18F7FF&size=26&center=false&lines=Hey!+Its+Thin+Ei+Khaing;Full+Stack+Web+Developer...;Senior+Ruby+On+Rails+Developer...."/>
  
  
  <p>- <i>A aspiring software developer with good problem-solving skills. 
