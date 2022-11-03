@@ -10,11 +10,9 @@
  ### ⚡️ Fun fact about me: ✨ I love coding+learning+sleeping✨ 
  
 </p>
-  
-  
 
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<img src="https://user-images.githubusercontent.com/4111438/199637337-91a61235-4a75-4d0f-b48c-1fbf565b149a.gif" width="50%" align="right" />
 
 </br>
 
