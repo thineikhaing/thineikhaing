@@ -13,13 +13,6 @@
 
 <img src="https://user-images.githubusercontent.com/4111438/199637690-13f712f4-b567-4916-b99e-a333bb748b8e.png" width="50%" align="right" />
 
-</br>
-
-- 🔧 I’m currently working on Fair Form Application.
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Dart.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ... thineikhaing@gmail.com.
 
 <hr>
 
